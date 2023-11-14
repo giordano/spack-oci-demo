@@ -1,6 +1,7 @@
 spack:
   view: false
-  specs: []
+  specs:
+  - libtree
   concretizer:
     unify: false
   config:
